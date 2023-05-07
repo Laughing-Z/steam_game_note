@@ -1,0 +1,6 @@
+STEAM_API_KEY = "xxxxxx"
+STEAM_UID = "xxxxxx"
+NOTION_API_KEY = "xxxxxx"
+NOTION_PAGE_ID = "xxxxxx"
+NOTION_DATABASE_ID = "notion_database_id"
+NOTION_DATABASE_STATUS = "True"
