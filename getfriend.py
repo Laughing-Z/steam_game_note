@@ -100,7 +100,7 @@ class SteamFriendInfo:
 
     def save_play_record(self):
         print("Save play record")
-        friend_ids = ["76561198870996210","76561198910192950"]
+        friend_ids = [""]
         friend_info = self.steam_api.get_friend_info(friend_ids,0)
         with open('GameSummary.csv', 'a', newline='') as csvfile:
             csvwriter = csv.writer(csvfile)
