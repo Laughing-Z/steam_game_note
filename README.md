@@ -2,11 +2,12 @@
 Save all your steam games record
 
 Notion Default View
- file:///home/magic/Pictures/steam_notion/2012111544252H4-0-lp.jpg
- 
+![database](https://user-images.githubusercontent.com/125721224/236667731-c1b92304-3e47-4596-acba-76e4971bc262.jpg)
+
 Notion Gallery View
- file:///home/magic/Pictures/steam_notion/2012111544252H4-0-lp.jpgKG%7B$R_(~F%7BA%5B6I35%60NNUMBH.png
- 
+![gallery](https://user-images.githubusercontent.com/125721224/236667853-b40c1fa4-1c0c-4370-9050-818c1878ac50.jpg)
+
+
 ## Get the data from steam web api
 
 1. Get the steam api key from steam
