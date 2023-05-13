@@ -1,8 +1,8 @@
 #!/usr/bin/python3
 import requests
-from getfriend import *
+from steam_game_note.getfriend import *
 import datetime
-from config import *
+from steam_game_note.config import *
 
 class NotionAPI:
     def __init__(self,api_key,page_id):

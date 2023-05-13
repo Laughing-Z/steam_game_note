@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-from getfriend import *
+from steam_game_note.getfriend import *
 import argparse
 
 def main():
