@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 import requests
-from steam_game_note.getfriend import *
+from steam_game_note.getfriend import SteamAPI,SteamFriendInfo
 import datetime
 from steam_game_note.config import *
 
