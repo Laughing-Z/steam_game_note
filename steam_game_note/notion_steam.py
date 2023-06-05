@@ -48,7 +48,6 @@ class NotionAPI:
         if response.status_code == 200:
             self.new_database_id = response.json()['id']
             print(f"New database created with ID: {self.new_database_id}")
-            linew = ''
             with open('./config.py','r') as cf:
                 lines = cf.read()
                 lines = lines.replace('notion_database_id',self.new_database_id)
@@ -86,7 +85,9 @@ class NotionAPI:
             #print(result)
             exist_appid = {}
             for i in result:
-                exist_appid[i['properties']['appid']['number']] = i['properties']['playtime_windows_forever']['number']
+                id =  i['properties']['id']['title'][0]['text']['content']
+                play_windows_time = i['properties']['playtime_windows_forever']['number']
+                exist_appid[i['properties']['appid']['number']] = [play_windows_time,id]
             return exist_appid
         else:
             return False
@@ -161,11 +162,14 @@ class NotionAPI:
                 response = requests.post(self.page_url, json=body, headers=self.headers)
                 print(f'{game_name} Insert Success')
             #更新游戏数据
-            elif i['playtime_windows_forever'] != save_appid[i['appid']]:
+            elif i['playtime_windows_forever'] != save_appid[i['appid']][0] or str(game_count) != save_appid[i['appid']][1]:
                 print("Start")
                 pages = self.get_database_exist(True)
                 for page in pages:
                     if page['properties']['appid']['number'] == i['appid']:
+                        #print("page:")
+                        #print(page)
+                        page['properties']['id']['title'][0]['text']['content'] = str(game_count)
                         page['properties']['playtime_windows_forever']['number'] = i['playtime_windows_forever']
                         page['properties']['playtime_forever']['rich_text'][0]['text']['content'] = str(hours)+"时"+str(remaining_minutes)+"分"
                         page['properties']['rtime_last_played']['rich_text'][0]['text']['content'] = str(datetime.datetime.fromtimestamp(i['rtime_last_played']))

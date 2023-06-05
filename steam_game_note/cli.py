@@ -13,6 +13,8 @@ def main():
     parser = argparse.ArgumentParser(description='Steam Interface Command')
     parser.add_argument("--friend",action="store_true",help="Print the Steam Online Friend List")
     parser.add_argument("--notion",action="store_true",help="Update the Notion Database")
+    parser.add_argument("--recent",action="store_true",help="Print the Steam Recently Played Game List")
+    parser.add_argument("--everyday",action="store_true",help="Save the everyday game play record")
     options = parser.parse_args()
     if options.friend:
         steam_api = SteamAPI(STEAM_API_KEY)
@@ -27,6 +29,14 @@ def main():
         notion = NotionAPI(notion_api_key,notion_page_id)
         notion_database_id = notion.create_notion_database(create_status)
         notion.insert_notion_page()
+    if options.recent:
+        steam_api = SteamAPI(STEAM_API_KEY)
+        table = SteamFriendInfo(STEAM_UID,steam_api).print_recently_played()
+        console = Console()
+        console.print(table)
+    if options.everyday:
+        steam_api = SteamAPI(STEAM_API_KEY)
+        SteamFriendInfo(STEAM_UID,steam_api).game_everyday()
 
 
     #table = SteamFriendInfo(STEAM_UID,STEAM_API_KEY).get_table(friend_info)

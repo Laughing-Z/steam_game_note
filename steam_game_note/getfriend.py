@@ -4,6 +4,7 @@ import csv
 import requests
 import datetime
 import json
+import time
 from rich.console import Console
 from rich.table import Column, Table
 from steam_game_note.config import *
@@ -92,11 +93,81 @@ class SteamFriendInfo:
         print(f"friend_info{friend_info}")
         for friend in friend_info:
             playtime = 0
-            played_time = self.steam_api.get_played_info(friend['steamid'])[0]['games']
+            response = self.steam_api.get_played_info(friend['steamid'])
+            if response == [{}]:
+                continue
+            played_time = response[0]['games']
             for played in played_time:
                 playtime += played["playtime_2weeks"]
             table.add_row(friend['steamid'], friend['personaname'], friend['status'], str(playtime))
         return table
+
+    def print_recently_played(self):
+        response = self.steam_api.get_played_info(self.steam_id)
+        print(response)
+        recently_played = response[0]['games']
+        table = Table(show_header=True, header_style="bold magenta")
+        table.add_column("App ID",justify="center")
+        table.add_column("Name",justify="center")
+        table.add_column("Playtime 2weeks",justify="center")
+        table.add_column("playtime_forever",justify="center")
+        for i in range(response[0]['total_count']):
+            table.add_row(str(recently_played[i]['appid']),recently_played[i]['name'],str(recently_played[i]['playtime_2weeks']),str(recently_played[i]['playtime_forever']))
+        return table
+
+    def game_everyday(self):
+        #记录运行时间
+        start_time = time.time()
+        print("Save game play record everyday")
+        #获取今日游戏数据
+        result = self.steam_api.get_owned_games(self.steam_id)
+        today_game_data = result['games']
+        yesterday_result = 0
+        everyday_game_data = {}
+        #获取昨日游戏数据
+        with open('steam_game_note/gameplay_day/game_yesterday.json','r',encoding='utf-8') as file:
+            yesterday_result = json.load(file)
+        yesterday_total = yesterday_result['game_count']
+
+        #构建哈希表
+        today_game_data_new = {}
+        for today_line in today_game_data:
+            today_game_data_new[str(today_line['appid'])] = today_line
+        yesterday_result_new = {}
+        for yesterday_line in yesterday_result['games']:
+            yesterday_result_new[str(yesterday_line['appid'])] = yesterday_line
+        
+        #使用键匹配
+        for today_line in today_game_data:
+            today_appid = str(today_line['appid'])
+            #增加新游戏,且游玩时长有变化（近两周有游玩记录，才会有playtime_2weeks字段）
+            if today_appid not in yesterday_result_new:
+                if today_line.get("playtime_2weeks",0):
+                    everyday_game_data[today_line['name']]  = today_line['playtime_2weeks']
+                continue
+            #游戏时长更新
+            elif today_game_data_new[str(today_line['appid'])]['playtime_windows_forever'] != yesterday_result_new[str(today_line['appid'])]['playtime_windows_forever']:
+                everyday_game_data[today_line['name']]  = today_line['playtime_windows_forever'] - yesterday_result_new[str(today_line['appid'])]['playtime_windows_forever']
+                continue
+            else:
+                continue
+        print(everyday_game_data)
+        #记录每日游戏
+        with open('steam_game_note/gameplay_day/game_everyday.json','a',encoding='utf-8') as file:
+            data = {"date":str(datetime.date.today().year) + "-" + str(datetime.date.today().month) + "-" + str(datetime.date.today().day),"games":everyday_game_data}
+            print("data"+str(data))
+            json.dump(data,file,indent=4)
+            file.write('\n')
+        #将今日游戏数据替换昨日游戏数据
+        with open ('steam_game_note/gameplay_day/game_yesterday.json','w',encoding='utf-8') as file:
+            json.dump(result,file,indent=4)
+        end_time = time.time()
+        # 计算程序运行时长
+        duration = end_time - start_time
+
+        # 输出时长（单位为秒）
+        print("Program duration:", duration, "seconds")
+
 
     def save_play_record(self):
         print("Save play record")
