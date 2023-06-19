@@ -1,0 +1,57 @@
+Start
+Save game play record everyday
+{}
+data{'date': '2023-6-13', 'games': {}}
+Program duration: 3.111799955368042 seconds
+Traceback (most recent call last):
+  File "/Users/masho/Downloads/Github/steam_game_note/getfriend.py", line 1, in <module>
+    from steam_game_note import main
+  File "/Users/masho/Downloads/Github/steam_game_note/steam_game_note/__init__.py", line 1, in <module>
+    from steam_game_note.cli import main
+  File "/Users/masho/Downloads/Github/steam_game_note/steam_game_note/cli.py", line 3, in <module>
+    from steam_game_note.getfriend import SteamAPI,SteamFriendInfo
+  File "/Users/masho/Downloads/Github/steam_game_note/steam_game_note/getfriend.py", line 4, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Start
+Save game play record everyday
+{}
+data{'date': '2023-6-13', 'games': {}}
+Program duration: 4.505944013595581 seconds
+Start
+Save game play record everyday
+{}
+data{'date': '2023-6-13', 'games': {}}
+Program duration: 1.4072661399841309 seconds
+Tue Jun 13 01:25:00 CST 2023
+Tue Jun 13 01:31:00 CST 2023
+Start
+Save game play record everyday
+{}
+data{'date': '2023-6-13', 'games': {}}
+Program duration: 1.5533759593963623 seconds
+Start
+Save game play record everyday
+{'Counter-Strike: Global Offensive': 23}
+data{'date': '2023-6-15', 'games': {'Counter-Strike: Global Offensive': 23}}
+Program duration: 1.0161128044128418 seconds
+Start
+Save game play record everyday
+{'Apex Legends': 35}
+data{'date': '2023-6-16', 'games': {'Apex Legends': 35}}
+Program duration: 4.186535835266113 seconds
+Start
+Save game play record everyday
+{'Apex Legends': 279}
+data{'date': '2023-6-17', 'games': {'Apex Legends': 279}}
+Program duration: 0.925482988357544 seconds
+Start
+Save game play record everyday
+{'Apex Legends': 465}
+data{'date': '2023-6-18', 'games': {'Apex Legends': 465}}
+Program duration: 3.9216792583465576 seconds
+Start
+Save game play record everyday
+{'Apex Legends': 74}
+data{'date': '2023-6-19', 'games': {'Apex Legends': 74}}
+Program duration: 7.0614869594573975 seconds

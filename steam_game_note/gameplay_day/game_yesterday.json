@@ -10,7 +10,8 @@
             "playtime_windows_forever": 335,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1571376643
+            "rtime_last_played": 1571376643,
+            "playtime_disconnected": 560
         },
         {
             "appid": 206440,
@@ -21,7 +22,8 @@
             "playtime_windows_forever": 193,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1608699872
+            "rtime_last_played": 1608699872,
+            "playtime_disconnected": 560
         },
         {
             "appid": 220200,
@@ -31,7 +33,8 @@
             "playtime_windows_forever": 55,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1615013532
+            "rtime_last_played": 1615013532,
+            "playtime_disconnected": 560
         },
         {
             "appid": 230410,
@@ -46,7 +49,8 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 218620,
@@ -57,7 +61,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 221910,
@@ -68,12 +73,12 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1553870732
+            "rtime_last_played": 1553870732,
+            "playtime_disconnected": 560
         },
         {
             "appid": 221100,
             "name": "DayZ",
-            "playtime_2weeks": 80,
             "playtime_forever": 6642,
             "img_icon_url": "16a985dfee9b093d76a0ffc4cf4c77ba20c2eb0d",
             "has_community_visible_stats": true,
@@ -84,7 +89,8 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 271590,
@@ -98,7 +104,8 @@
             "rtime_last_played": 1664703143,
             "content_descriptorids": [
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 239160,
@@ -109,7 +116,8 @@
             "playtime_windows_forever": 9,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1595763206
+            "rtime_last_played": 1595763206,
+            "playtime_disconnected": 560
         },
         {
             "appid": 48700,
@@ -120,7 +128,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 243470,
@@ -130,7 +139,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1559377559
+            "rtime_last_played": 1559377559,
+            "playtime_disconnected": 560
         },
         {
             "appid": 203160,
@@ -141,7 +151,8 @@
             "playtime_windows_forever": 538,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1570362759
+            "rtime_last_played": 1570362759,
+            "playtime_disconnected": 560
         },
         {
             "appid": 238320,
@@ -156,7 +167,8 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 327410,
@@ -167,7 +179,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 330020,
@@ -178,7 +191,8 @@
             "playtime_windows_forever": 165,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1660372110
+            "rtime_last_played": 1660372110,
+            "playtime_disconnected": 560
         },
         {
             "appid": 305620,
@@ -189,18 +203,20 @@
             "playtime_windows_forever": 1486,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1676727560
+            "rtime_last_played": 1676727560,
+            "playtime_disconnected": 560
         },
         {
             "appid": 319630,
-            "name": "Life is Strange\u2122",
+            "name": "Life is Strange™",
             "playtime_forever": 833,
             "img_icon_url": "e54b13da0710a35e7088664a77632e79157d8332",
             "has_community_visible_stats": true,
             "playtime_windows_forever": 833,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1575017322
+            "rtime_last_played": 1575017322,
+            "playtime_disconnected": 560
         },
         {
             "appid": 340150,
@@ -211,7 +227,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 346010,
@@ -222,7 +239,8 @@
             "playtime_windows_forever": 23,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1598002646
+            "rtime_last_played": 1598002646,
+            "playtime_disconnected": 560
         },
         {
             "appid": 346110,
@@ -233,7 +251,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1555824592
+            "rtime_last_played": 1555824592,
+            "playtime_disconnected": 560
         },
         {
             "appid": 407530,
@@ -243,7 +262,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 367450,
@@ -254,19 +274,20 @@
             "playtime_windows_forever": 110,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1575636899
+            "rtime_last_played": 1575636899,
+            "playtime_disconnected": 560
         },
         {
             "appid": 367520,
             "name": "Hollow Knight",
-            "playtime_2weeks": 4,
             "playtime_forever": 1071,
             "img_icon_url": "7b87aecda896ae747a6e40e3eb63498cb8b84df2",
             "has_community_visible_stats": true,
             "playtime_windows_forever": 1071,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1684897366
+            "rtime_last_played": 1684897366,
+            "playtime_disconnected": 560
         },
         {
             "appid": 219740,
@@ -276,7 +297,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 384180,
@@ -290,7 +312,8 @@
             "rtime_last_played": 1654099326,
             "content_descriptorids": [
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 383870,
@@ -301,7 +324,8 @@
             "playtime_windows_forever": 252,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1593595581
+            "rtime_last_played": 1593595581,
+            "playtime_disconnected": 560
         },
         {
             "appid": 386940,
@@ -312,7 +336,8 @@
             "playtime_windows_forever": 363,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1613807794
+            "rtime_last_played": 1613807794,
+            "playtime_disconnected": 560
         },
         {
             "appid": 290340,
@@ -323,7 +348,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 393190,
@@ -334,7 +360,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 12120,
@@ -344,7 +371,8 @@
             "playtime_windows_forever": 18,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1594985092
+            "rtime_last_played": 1594985092,
+            "playtime_disconnected": 560
         },
         {
             "appid": 12250,
@@ -354,7 +382,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 406970,
@@ -365,7 +394,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 413150,
@@ -376,7 +406,8 @@
             "playtime_windows_forever": 8932,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1675262412
+            "rtime_last_played": 1675262412,
+            "playtime_disconnected": 560
         },
         {
             "appid": 414700,
@@ -391,7 +422,8 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 427680,
@@ -402,7 +434,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 427700,
@@ -413,7 +446,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 239140,
@@ -428,19 +462,20 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 431960,
             "name": "Wallpaper Engine",
-            "playtime_2weeks": 8,
             "playtime_forever": 2842,
             "img_icon_url": "72edaed9d748c6cf7397ffb1c83f0b837b9ebd9d",
             "has_community_visible_stats": true,
             "playtime_windows_forever": 2137,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1685869505
+            "rtime_last_played": 1685869505,
+            "playtime_disconnected": 560
         },
         {
             "appid": 447530,
@@ -451,7 +486,8 @@
             "playtime_windows_forever": 433,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1676106972
+            "rtime_last_played": 1676106972,
+            "playtime_disconnected": 560
         },
         {
             "appid": 457140,
@@ -462,7 +498,8 @@
             "playtime_windows_forever": 2402,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1637478051
+            "rtime_last_played": 1637478051,
+            "playtime_disconnected": 560
         },
         {
             "appid": 475550,
@@ -477,7 +514,8 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 496460,
@@ -488,7 +526,8 @@
             "playtime_windows_forever": 16,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1618484571
+            "rtime_last_played": 1618484571,
+            "playtime_disconnected": 560
         },
         {
             "appid": 322330,
@@ -498,7 +537,8 @@
             "playtime_windows_forever": 1117,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1612165349
+            "rtime_last_played": 1612165349,
+            "playtime_disconnected": 560
         },
         {
             "appid": 292030,
@@ -513,7 +553,8 @@
             "content_descriptorids": [
                 1,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 526160,
@@ -524,35 +565,37 @@
             "playtime_windows_forever": 145,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1613812958
+            "rtime_last_played": 1613812958,
+            "playtime_disconnected": 560
         },
         {
             "appid": 730,
             "name": "Counter-Strike: Global Offensive",
-            "playtime_2weeks": 53,
-            "playtime_forever": 6755,
+            "playtime_2weeks": 42,
+            "playtime_forever": 6798,
             "img_icon_url": "69f7ebe2735c366c65c0b33dae00e12dc40edbe4",
             "has_community_visible_stats": true,
-            "playtime_windows_forever": 6558,
+            "playtime_windows_forever": 6601,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 16,
-            "rtime_last_played": 1685717242,
+            "rtime_last_played": 1686841804,
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 337340,
             "name": "Finding Paradise",
-            "playtime_2weeks": 11,
             "playtime_forever": 18,
             "img_icon_url": "a73f4efe629814dee218036dfc08e293dea41137",
             "has_community_visible_stats": true,
             "playtime_windows_forever": 18,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1685128311
+            "rtime_last_played": 1685128311,
+            "playtime_disconnected": 560
         },
         {
             "appid": 555000,
@@ -568,7 +611,8 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 582890,
@@ -579,7 +623,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 596970,
@@ -590,7 +635,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 599140,
@@ -605,7 +651,8 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 640120,
@@ -616,7 +663,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 644560,
@@ -633,7 +681,8 @@
                 3,
                 5,
                 4
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 644570,
@@ -649,7 +698,8 @@
                 3,
                 5,
                 4
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 668630,
@@ -660,17 +710,19 @@
             "playtime_windows_forever": 113,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1669280590
+            "rtime_last_played": 1669280590,
+            "playtime_disconnected": 560
         },
         {
             "appid": 681820,
-            "name": "\u4ed9\u5251\u5947\u4fa0\u4f20\u56db(Chinese Paladin\uff1aSword and Fairy 4)",
+            "name": "仙剑奇侠传四(Chinese Paladin：Sword and Fairy 4)",
             "playtime_forever": 0,
             "img_icon_url": "afef96364d9efac4559f0d092de706032ffaaa72",
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 683320,
@@ -681,7 +733,8 @@
             "playtime_windows_forever": 227,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1606914616
+            "rtime_last_played": 1606914616,
+            "playtime_disconnected": 560
         },
         {
             "appid": 690530,
@@ -696,7 +749,8 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 240720,
@@ -707,7 +761,8 @@
             "playtime_windows_forever": 8,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1593609101
+            "rtime_last_played": 1593609101,
+            "playtime_disconnected": 560
         },
         {
             "appid": 554620,
@@ -718,7 +773,8 @@
             "playtime_windows_forever": 604,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1592542430
+            "rtime_last_played": 1592542430,
+            "playtime_disconnected": 560
         },
         {
             "appid": 714120,
@@ -729,7 +785,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 537800,
@@ -741,7 +798,8 @@
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
             "rtime_last_played": 0,
-            "has_leaderboards": true
+            "has_leaderboards": true,
+            "playtime_disconnected": 560
         },
         {
             "appid": 732370,
@@ -752,7 +810,8 @@
             "playtime_windows_forever": 157,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1643111599
+            "rtime_last_played": 1643111599,
+            "playtime_disconnected": 560
         },
         {
             "appid": 736190,
@@ -763,7 +822,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1552746941
+            "rtime_last_played": 1552746941,
+            "playtime_disconnected": 560
         },
         {
             "appid": 736260,
@@ -774,7 +834,8 @@
             "playtime_windows_forever": 375,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1651484086
+            "rtime_last_played": 1651484086,
+            "playtime_disconnected": 560
         },
         {
             "appid": 755790,
@@ -788,7 +849,8 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 761620,
@@ -803,7 +865,8 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 774861,
@@ -817,7 +880,8 @@
             "rtime_last_played": 1642517165,
             "content_descriptorids": [
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 792300,
@@ -832,7 +896,8 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 798420,
@@ -842,7 +907,8 @@
             "playtime_windows_forever": 28,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1604911678
+            "rtime_last_played": 1604911678,
+            "playtime_disconnected": 560
         },
         {
             "appid": 815370,
@@ -856,7 +922,8 @@
             "rtime_last_played": 1684592674,
             "content_descriptorids": [
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 828740,
@@ -871,7 +938,8 @@
             "content_descriptorids": [
                 1,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 838410,
@@ -882,7 +950,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 838540,
@@ -892,7 +961,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1565195807
+            "rtime_last_played": 1565195807,
+            "playtime_disconnected": 560
         },
         {
             "appid": 864680,
@@ -903,7 +973,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 728880,
@@ -914,7 +985,8 @@
             "playtime_windows_forever": 171,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1611814356
+            "rtime_last_played": 1611814356,
+            "playtime_disconnected": 560
         },
         {
             "appid": 809890,
@@ -925,7 +997,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 606280,
@@ -940,7 +1013,8 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 899310,
@@ -954,17 +1028,19 @@
             "rtime_last_played": 0,
             "content_descriptorids": [
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 934580,
-            "name": "Hell Wedding \u591c\u5ac1",
+            "name": "Hell Wedding 夜嫁",
             "playtime_forever": 0,
             "img_icon_url": "76f68c85b49519019e7d48931c92784da7767d74",
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 938380,
@@ -975,7 +1051,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 939100,
@@ -986,7 +1063,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 942970,
@@ -1000,7 +1078,8 @@
             "rtime_last_played": 1594730161,
             "content_descriptorids": [
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 492720,
@@ -1011,7 +1090,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 959520,
@@ -1022,7 +1102,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 963000,
@@ -1033,7 +1114,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 979120,
@@ -1044,7 +1126,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 49520,
@@ -1055,7 +1138,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1560867336
+            "rtime_last_played": 1560867336,
+            "playtime_disconnected": 560
         },
         {
             "appid": 261640,
@@ -1066,7 +1150,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 994140,
@@ -1077,18 +1162,20 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 994280,
-            "name": "\u53e4\u5251\u5947\u8c2d\u4e09(Gujian3)",
+            "name": "Gujian3(古剑奇谭三)",
             "playtime_forever": 176,
             "img_icon_url": "df578400e899bfd1605c01ce5ff6894c5d986ffb",
             "has_community_visible_stats": true,
             "playtime_windows_forever": 176,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1674877963
+            "rtime_last_played": 1674877963,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1007350,
@@ -1102,7 +1189,8 @@
             "content_descriptorids": [
                 1,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 1008710,
@@ -1117,7 +1205,8 @@
             "content_descriptorids": [
                 1,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 1018850,
@@ -1128,7 +1217,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1035560,
@@ -1139,7 +1229,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1047220,
@@ -1150,7 +1241,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 266310,
@@ -1160,7 +1252,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1057750,
@@ -1174,7 +1267,8 @@
             "rtime_last_played": 1657073940,
             "content_descriptorids": [
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 477160,
@@ -1185,7 +1279,8 @@
             "playtime_windows_forever": 96,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1588596806
+            "rtime_last_played": 1588596806,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1063490,
@@ -1196,7 +1291,8 @@
             "playtime_windows_forever": 73,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1615120273
+            "rtime_last_played": 1615120273,
+            "playtime_disconnected": 560
         },
         {
             "appid": 927380,
@@ -1212,7 +1308,8 @@
                 1,
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 1097150,
@@ -1223,7 +1320,8 @@
             "playtime_windows_forever": 1992,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1642517939
+            "rtime_last_played": 1642517939,
+            "playtime_disconnected": 560
         },
         {
             "appid": 310560,
@@ -1234,19 +1332,21 @@
             "playtime_windows_forever": 25,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1570840950
+            "rtime_last_played": 1570840950,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1172470,
             "name": "Apex Legends",
-            "playtime_2weeks": 224,
-            "playtime_forever": 24933,
+            "playtime_2weeks": 958,
+            "playtime_forever": 25892,
             "img_icon_url": "070902d2389878ac4bf29efb5b92832c60bdf24e",
             "has_community_visible_stats": true,
-            "playtime_windows_forever": 24878,
+            "playtime_windows_forever": 25836,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1685871018
+            "rtime_last_played": 1687185201,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1180320,
@@ -1256,7 +1356,8 @@
             "playtime_windows_forever": 641,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1652538632
+            "rtime_last_played": 1652538632,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1181400,
@@ -1267,33 +1368,37 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1203220,
             "name": "NARAKA: BLADEPOINT",
-            "playtime_2weeks": 15,
-            "playtime_forever": 1339,
+            "playtime_2weeks": 19,
+            "playtime_forever": 1359,
             "img_icon_url": "8055e7baa81ce2084d7daa42233983967956abb0",
             "has_community_visible_stats": true,
-            "playtime_windows_forever": 1339,
+            "playtime_windows_forever": 1359,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1685111733,
+            "rtime_last_played": 1686319257,
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 359550,
             "name": "Tom Clancy's Rainbow Six Siege",
-            "playtime_forever": 4458,
+            "playtime_2weeks": 19,
+            "playtime_forever": 4477,
             "img_icon_url": "624745d333ac54aedb1ee911013e2edb7722550e",
-            "playtime_windows_forever": 4458,
+            "playtime_windows_forever": 4477,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1659162340
+            "rtime_last_played": 1686468231,
+            "playtime_disconnected": 560
         },
         {
             "appid": 623990,
@@ -1303,22 +1408,24 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1222680,
-            "name": "Need for Speed\u2122 Heat ",
+            "name": "Need for Speed™ Heat ",
             "playtime_forever": 17,
             "img_icon_url": "98a96955403db8eeed026bc5ff04e51e3329f1b0",
             "has_community_visible_stats": true,
             "playtime_windows_forever": 17,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1664544204
+            "rtime_last_played": 1664544204,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1238840,
-            "name": "Battlefield 1 \u2122",
+            "name": "Battlefield 1 ™",
             "playtime_forever": 1438,
             "img_icon_url": "325c78f6940b57a43b65468d2dc10e22601b0ec5",
             "has_community_visible_stats": true,
@@ -1329,11 +1436,12 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 1237970,
-            "name": "Titanfall\u00ae 2",
+            "name": "Titanfall® 2",
             "playtime_forever": 280,
             "img_icon_url": "d73c7e572859bd7490947d1aeab5c33eda18fd64",
             "has_community_visible_stats": true,
@@ -1344,7 +1452,8 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 960690,
@@ -1355,7 +1464,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 873940,
@@ -1366,7 +1476,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 421170,
@@ -1377,7 +1488,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 34330,
@@ -1388,17 +1500,19 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1329410,
-            "name": "\u96c0\u9b42\u9ebb\u5c06(MahjongSoul)",
+            "name": "雀魂麻将(MahjongSoul)",
             "playtime_forever": 614,
             "img_icon_url": "262db8949a5c064435dcb3aec4182c919dfd1976",
             "playtime_windows_forever": 614,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1684079750
+            "rtime_last_played": 1684079750,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1335790,
@@ -1409,7 +1523,8 @@
             "playtime_windows_forever": 298,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1661587007
+            "rtime_last_played": 1661587007,
+            "playtime_disconnected": 560
         },
         {
             "appid": 995980,
@@ -1420,7 +1535,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 859580,
@@ -1431,7 +1547,8 @@
             "playtime_windows_forever": 15,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1681032707
+            "rtime_last_played": 1681032707,
+            "playtime_disconnected": 560
         },
         {
             "appid": 274520,
@@ -1442,18 +1559,21 @@
             "playtime_windows_forever": 89,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1605271559
+            "rtime_last_played": 1605271559,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1468810,
-            "name": "\u9b3c\u8c37\u516b\u8352 Tale of Immortal",
-            "playtime_forever": 0,
+            "name": "鬼谷八荒 Tale of Immortal",
+            "playtime_2weeks": 403,
+            "playtime_forever": 403,
             "img_icon_url": "51a531645724df6f419ce89c1d8c34b2b2355428",
             "has_community_visible_stats": true,
-            "playtime_windows_forever": 0,
+            "playtime_windows_forever": 403,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 1686396681,
+            "playtime_disconnected": 560
         },
         {
             "appid": 843380,
@@ -1464,7 +1584,8 @@
             "playtime_windows_forever": 170,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1667643027
+            "rtime_last_played": 1667643027,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1515210,
@@ -1475,7 +1596,8 @@
             "playtime_windows_forever": 110,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1667640332
+            "rtime_last_played": 1667640332,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1013310,
@@ -1490,7 +1612,8 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 1568590,
@@ -1501,7 +1624,8 @@
             "playtime_windows_forever": 4683,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1675089003
+            "rtime_last_played": 1675089003,
+            "playtime_disconnected": 560
         },
         {
             "appid": 424840,
@@ -1512,7 +1636,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 0
+            "rtime_last_played": 0,
+            "playtime_disconnected": 560
         },
         {
             "appid": 1714040,
@@ -1522,7 +1647,8 @@
             "playtime_windows_forever": 1997,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1680423209
+            "rtime_last_played": 1680423209,
+            "playtime_disconnected": 560
         },
         {
             "appid": 578080,
@@ -1537,7 +1663,8 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 552500,
@@ -1552,11 +1679,12 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 1938090,
-            "name": "Call of Duty\u00ae: Modern Warfare\u00ae II | Warzone\u2122 2.0",
+            "name": "Call of Duty®: Modern Warfare® II | Warzone™",
             "playtime_forever": 38,
             "img_icon_url": "647ccaac6f9b359db6309077757fae50b5f13a8c",
             "has_community_visible_stats": true,
@@ -1567,7 +1695,8 @@
             "content_descriptorids": [
                 2,
                 5
-            ]
+            ],
+            "playtime_disconnected": 560
         },
         {
             "appid": 261820,
@@ -1578,7 +1707,8 @@
             "playtime_windows_forever": 0,
             "playtime_mac_forever": 0,
             "playtime_linux_forever": 0,
-            "rtime_last_played": 1553310570
+            "rtime_last_played": 1553310570,
+            "playtime_disconnected": 560
         }
     ]
 }

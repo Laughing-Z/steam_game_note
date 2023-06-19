@@ -125,7 +125,7 @@ class SteamFriendInfo:
         yesterday_result = 0
         everyday_game_data = {}
         #获取昨日游戏数据
-        with open('steam_game_note/gameplay_day/game_yesterday.json','r',encoding='utf-8') as file:
+        with open('/Users/masho/Downloads/Github/steam_game_note/steam_game_note/gameplay_day/game_yesterday.json','r',encoding='utf-8') as file:
             yesterday_result = json.load(file)
         yesterday_total = yesterday_result['game_count']
 
@@ -153,14 +153,14 @@ class SteamFriendInfo:
                 continue
         print(everyday_game_data)
         #记录每日游戏
-        with open('steam_game_note/gameplay_day/game_everyday.json','a',encoding='utf-8') as file:
+        with open('/Users/masho/Downloads/Github/steam_game_note//steam_game_note/gameplay_day/game_everyday.json','a',encoding='utf-8') as file:
             data = {"date":str(datetime.date.today().year) + "-" + str(datetime.date.today().month) + "-" + str(datetime.date.today().day),"games":everyday_game_data}
             print("data"+str(data))
-            json.dump(data,file,indent=4)
+            json.dump(data,file,ensure_ascii=False,indent=4)
             file.write('\n')
         #将今日游戏数据替换昨日游戏数据
-        with open ('steam_game_note/gameplay_day/game_yesterday.json','w',encoding='utf-8') as file:
-            json.dump(result,file,indent=4)
+        with open ('/Users/masho/Downloads/Github/steam_game_note/steam_game_note/gameplay_day/game_yesterday.json','w',encoding='utf-8') as file:
+            json.dump(result,file,ensure_ascii=False,indent=4)
         end_time = time.time()
         # 计算程序运行时长
         duration = end_time - start_time

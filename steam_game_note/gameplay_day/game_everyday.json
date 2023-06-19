@@ -1,37 +1,81 @@
 {
-    "date": "2023-5-31",
-    "games": {
-        "Counter-Strike: Global Offensive": 43
-    }
+  "date": "2023-5-31",
+  "games": {
+    "Counter-Strike: Global Offensive": 43
+  }
 }
 {
-    "date": "2023-6-1",
-    "games": {}
+  "date": "2023-6-1",
+  "games": {}
 }
 {
-    "date": "2023-6-2",
-    "games": {}
+  "date": "2023-6-2",
+  "games": {}
 }
 {
-    "date": "2023-6-2",
-    "games": {
-        "Counter-Strike: Global Offensive": 15
-    }
+  "date": "2023-6-2",
+  "games": {
+    "Counter-Strike: Global Offensive": 15
+  }
 }
 {
-    "date": "2023-6-3",
-    "games": {
-        "Apex Legends": 73
-    }
+  "date": "2023-6-3",
+  "games": {
+    "Apex Legends": 73
+  }
 }
 {
-    "date": "2023-6-4",
-    "games": {
-        "Apex Legends": 26
-    }
+  "date": "2023-6-4",
+  "games": {
+    "Apex Legends": 26
+  }
 }
 
 {
-    "date": "2023-6-5",
+  "date": "2023-6-5",
+  "games": {}
+}
+{
+  "date": "2023-6-12",
+  "games": {
+    "Counter-Strike: Global Offensive": 20,
+    "Apex Legends": 105,
+    "NARAKA: BLADEPOINT": 20,
+    "Tom Clancy's Rainbow Six Siege": 19,
+    "\u9b3c\u8c37\u516b\u8352 Tale of Immortal": 403
+  }
+}
+{
+    "date": "2023-6-13",
     "games": {}
+}
+{
+    "date": "2023-6-15",
+    "games": {
+        "Counter-Strike: Global Offensive": 23
+    }
+}
+{
+    "date": "2023-6-16",
+    "games": {
+        "Apex Legends": 35
+    }
+}
+{
+    "date": "2023-6-17",
+    "games": {
+        "Apex Legends": 279
+    }
+}
+{
+    "date": "2023-6-18",
+    "games": {
+        "Apex Legends": 465
+    }
+}
+{
+    "date": "2023-6-19",
+    "games": {
+        "Apex Legends": 74
+    }
 }
