@@ -55,3 +55,8 @@ Save game play record everyday
 {'Apex Legends': 74}
 data{'date': '2023-6-19', 'games': {'Apex Legends': 74}}
 Program duration: 7.0614869594573975 seconds
+Start
+Save game play record everyday
+{}
+data{'date': '2023-6-20', 'games': {}}
+Program duration: 0.9038980007171631 seconds
