@@ -10,10 +10,6 @@
 }
 {
   "date": "2023-6-2",
-  "games": {}
-}
-{
-  "date": "2023-6-2",
   "games": {
     "Counter-Strike: Global Offensive": 15
   }
@@ -46,40 +42,40 @@
   }
 }
 {
-    "date": "2023-6-13",
-    "games": {}
+  "date": "2023-6-13",
+  "games": {}
 }
 {
-    "date": "2023-6-15",
-    "games": {
-        "Counter-Strike: Global Offensive": 23
-    }
+  "date": "2023-6-15",
+  "games": {
+    "Counter-Strike: Global Offensive": 23
+  }
 }
 {
-    "date": "2023-6-16",
-    "games": {
-        "Apex Legends": 35
-    }
+  "date": "2023-6-16",
+  "games": {
+    "Apex Legends": 35
+  }
 }
 {
-    "date": "2023-6-17",
-    "games": {
-        "Apex Legends": 279
-    }
+  "date": "2023-6-17",
+  "games": {
+    "Apex Legends": 279
+  }
 }
 {
-    "date": "2023-6-18",
-    "games": {
-        "Apex Legends": 465
-    }
+  "date": "2023-6-18",
+  "games": {
+    "Apex Legends": 465
+  }
 }
 {
-    "date": "2023-6-19",
-    "games": {
-        "Apex Legends": 74
-    }
+  "date": "2023-6-19",
+  "games": {
+    "Apex Legends": 74
+  }
 }
 {
-    "date": "2023-6-20",
-    "games": {}
+  "date": "2023-6-20",
+  "games": {}
 }
